@@ -3668,7 +3668,25 @@
         "Responsive",
         "RESTful"
       ]
-    }
+    },
+    {
+	  "name": "One Million Bitcoins",
+	  "thumb": "one-million-bitcoins/thumb.png",
+	  "desc": "Marketing service to showcase the earliest Bitcoin supporters",
+	  "url": "https://onemillionbitcoins.net",
+	  "submitter": "NathanFeeser",
+	  "submissionDate": "2015-03-30",
+	  "tags": [
+	    "Production",
+	    "Business",
+	    "Bitcoin",
+	    "Coinbase API",
+	    "Bootstrap",
+	    "Modernizr",
+	    "HTML5",
+	    "jQuery"
+	  ]
+	}
 
   ]
 }
